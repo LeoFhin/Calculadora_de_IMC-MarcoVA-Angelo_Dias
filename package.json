@@ -1,0 +1,25 @@
+{
+  "name": "calculadora_de_imc-marcova-angelo_dias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoFhin/Calculadora_de_IMC-MarcoVA-Angelo_Dias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoFhin/Calculadora_de_IMC-MarcoVA-Angelo_Dias/issues"
+  },
+  "homepage": "https://github.com/LeoFhin/Calculadora_de_IMC-MarcoVA-Angelo_Dias#readme",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^3.2.4",
+    "vitest": "^3.2.4"
+  }
+}
