@@ -100,4 +100,4 @@ A suíte de testes automatizados foi construída para garantir que as seguintes 
 
 ## Autor
 
-**[Leonardo Santos de Lima]**
+**Leonardo Santos de Lima**
