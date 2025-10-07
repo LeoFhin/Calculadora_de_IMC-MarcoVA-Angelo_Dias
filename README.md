@@ -54,7 +54,8 @@ Este comando executará o Vitest em modo "watch", que re-executa os testes autom
 
 Vide print:
 
-foto aqui
+<img width="786" height="442" alt="image" src="https://github.com/user-attachments/assets/c33f655a-d86c-4108-b51a-8283dd0b27df" />
+
 
 ### Gerando o Relatório de Cobertura
 
@@ -68,7 +69,7 @@ Este comando gerará uma tabela de cobertura no terminal e criará uma pasta `co
 
 Vide print:
 
-foto aqui
+<img width="550" height="157" alt="image" src="https://github.com/user-attachments/assets/6d924029-6d37-41b9-8531-31d1f53fee3f" />
 
 ---
 
